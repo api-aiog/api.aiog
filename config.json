@@ -1,0 +1,19 @@
+{
+    "css": "{ display: none!important; }",
+    "clickButtonId": ".Xn_wrmpnaAgB7BQligNB",
+    "backButtonId": ".Luw8lK38r3OQwrI1_Mkt,",
+    "otherButtonId": ".pyOBngxafEnwWKrr93IQ , .qoMYGbBhf9dsbaBGBphh, .J91n1ymJasoch_FZq89b",
+    "url": "",
+    "privacyUrl": "",
+    "showAds": false,
+    "gNativeId": "",
+    "gBannerId": "",
+    "gAppOpenId": "",
+    "gInterstitialId": "",
+    "interstialClick": 0,
+    "showBanner": false,
+    "showAppOpen": false,
+    "showNative": false,
+    "showInterstitial": false,
+    "showInterstitialBack": false
+}
