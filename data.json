@@ -1,1876 +1,1373 @@
 {
-  "data": [
-    {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/2c6d5a46cdbceada277c870ce1c389ee.jpg",
-      "gameurl": "https://poki.com/en/g/moto-x3m",
-      "gamename": "Moto X3M",
-      "orientation": true,
-      "category": "Car & Bike"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/e327f46027899af3e9573ef51450bb54.png",
-      "gameurl": "https://poki.com/en/g/sushi-party-io",
-      "gamename": "Sushi Party",
-      "orientation": false,
-      "category": "Skill"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/373740bfb89dd3e6c1fb96674148e806.png",
-      "gameurl": "https://poki.com/en/g/who-is",
-      "gamename": "Who Is?",
-      "orientation": true,
-      "category": "Puzzle"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0cf85634812c42993399de175cd5bd00.jpeg",
-      "gameurl": "https://poki.com/en/g/tennis-masters",
-      "gamename": "Tennis Masters",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/b3668d7deb043d0f43b5813b0365be8f.png",
-      "gameurl": "https://poki.com/en/g/monkey-mart",
-      "gamename": "Monkey Mart",
-      "orientation": true,
-      "category": "dle"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0e49f86ec1509ef756fadeefa0ce917c.png",
-      "gameurl": "https://poki.com/en/g/tribals-io",
-      "gamename": "Tribals.io",
-      "orientation": true,
-      "category": ".io Games"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7b6443b0074b79bdef21bae09e5cae4b.png",
-      "gameurl": "https://poki.com/en/g/subway-surfers",
-      "gamename": "Subway Surfers",
-      "orientation": false,
-      "category": "Skill"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/260f3251a55c78a27fd15b9e4d675f88.png",
-      "gameurl": "https://poki.com/en/g/vectaria-io",
-      "gamename": "Vectaria.io",
-      "orientation": true,
-      "category": ".io Games"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/ee9ca3764ef4289a48a1ebf457ef605441ed1f35a0f2eb12707a70d609e53686.png",
-      "gameurl": "https://poki.com/en/g/retro-bowl",
-      "gamename": "Retro Bowl",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/4224c095ad0f21a794998871c90446ca.jfif",
-      "gameurl": "https://poki.com/en/g/rainbow-obby",
-      "gamename": "Rainbow Obby",
-      "orientation": false,
-      "category": "Skill"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/f8a2160e52333ee0d44ec19e8ca65139.png",
-      "gameurl": "https://poki.com/en/g/drive-mad",
-      "gamename": "Drive Mad",
-      "orientation": true,
-      "category": "Car & Bike"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/32d2b1401c7a86c61fae5afeed977b37.png",
-      "gameurl": "https://poki.com/en/g/tag",
-      "gamename": "Tag",
-      "orientation": true,
-      "category": "Car & Bike"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/850281b427f3bcd6dddf5fbb3f5216e0.png",
-      "gameurl": "https://poki.com/en/g/stickman-fight-ragdoll",
-      "gamename": "Stickman Fight: Ragdoll",
-      "orientation": true,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/2d5e417ea0fc1ef06d746b2cef691c07.png",
-      "gameurl": "https://poki.com/en/g/bubble-shooter-lak",
-      "gamename": "Bubble Shooter",
-      "orientation": true,
-      "category": "arcade"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/99e090d154caf30f3625df7e456d5984.png",
-      "gameurl": "https://poki.com/en/g/stickman-hook",
-      "gamename": "Stickman Hook",
-      "orientation": false,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
-      "gameurl": "https://poki.com/en/g/murder",
-      "gamename": "Murder",
-      "orientation": true,
-      "category": "Funny"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
-      "gameurl": "https://poki.com/en/g/stick-merge",
-      "gamename": "Stick Merge",
-      "orientation": true,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/19a3ea265e3b62b11facec762dd1c4f2.png",
-      "gameurl": "https://poki.com/en/g/dreadhead-parkour",
-      "gamename": "Dreadhead Parkour",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/bc02c9cdfc5b424ddf343b01edf791ce.png",
-      "gameurl": "https://poki.com/en/g/basketball-stars",
-      "gamename": "Basketball Stars",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7b6f54cf-e1b2-4e69-a84e-1c1f49e54c53.png",
-      "gameurl": "https://poki.com/en/g/penalty-shooters-2",
-      "gamename": "Penalty Shooters 2",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0d016ff9d45823cb4223159d61d58367.png",
-      "gameurl": "https://poki.com/en/g/crazy-cars",
-      "gamename": "Crazy Cars",
-      "orientation": true,
-      "category": "Car & Bike"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/58fe1e7371ce50318e3c31024b561209.png",
-      "gameurl": "https://poki.com/en/g/super-tunnel-rush",
-      "gamename": "Super Tunnel Rush",
-      "orientation": false,
-      "category": "Car & Bike"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/3cd96c99-46c1-4ff0-b04a-82381ea07349.png",
-      "gameurl": "https://poki.com/en/g/the-impossible-quiz",
-      "gamename": "The Impossible Quiz",
-      "orientation": true,
-      "category": "Funny"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/1a9642e779cab413962255ea953d1155.png",
-      "gameurl": "https://poki.com/en/g/soccer-skills-world-cup",
-      "gamename": "Soccer Skills World Cup",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0e1aa55382d86a9dadaadfdd23c175f6.png",
-      "gameurl": "https://poki.com/en/g/tag-2",
-      "gamename": "Tag 2",
-      "orientation": true,
-      "category": "online worlds"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/505695b9-1b21-47fd-a8e1-93345afb57de.png",
-      "gameurl": "https://poki.com/en/g/master-chess",
-      "gamename": "Master Chess",
-      "orientation": false,
-      "category": "board"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/e689238d6dcbb672b749ab65960c0d65.png",
-      "gameurl": "https://poki.com/en/g/brain-test-tricky-puzzles",
-      "gamename": "Brain Test: Tricky Puzzles",
-      "orientation": false,
-      "category": "new puzzle"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/a0929e5428c5af2666c9eeb3a0441d4c.png",
-      "gameurl": "https://poki.com/en/g/we-become-what-we-behold",
-      "gamename": "We Become What We Behold",
-      "orientation": false,
-      "category": "simulation"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0654ee12cde475bc427e46fdf22f1c5d.png",
-      "gameurl": "https://poki.com/en/g/vortellis-pizza",
-      "gamename": "Vortelli's Pizza",
-      "orientation": true,
-      "category": "Car & Bike"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
-      "gameurl": "https://poki.com/en/g/venge-io",
-      "gamename": "Venge.io",
-      "orientation": true,
-      "category": ".io Games"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/3b580a021580bf9266fba837a8837039.png",
-      "gameurl": "https://poki.com/en/g/war-of-sticks",
-      "gamename": "War of Sticks",
-      "orientation": true,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7d0655113228257bad41d851c074600d.png",
-      "gameurl": "https://poki.com/en/g/sausage-flip",
-      "gamename": "Sausage Flip",
-      "orientation": false,
-      "category": "arcade"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/d2033807416f5e0fe6e149e81c46eabd.png",
-      "gameurl": "https://poki.com/en/g/car-parking-jam",
-      "gamename": "Car Parking Jam",
-      "orientation": false,
-      "category": "new puzzle"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/ddd68cd4387aad588bd48ca45c2f2290.png",
-      "gameurl": "https://poki.com/en/g/numbers",
-      "gamename": "Numbers",
-      "orientation": false,
-      "category": "new puzzle"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/e3d3917911b206844b48c3f87eeb12a2.jfif",
-      "gameurl": "https://poki.com/en/g/village-craft",
-      "gamename": "Village Craft",
-      "orientation": false,
-      "category": "simulation"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/128be1b22e48ca511601be58ab856c76.png",
-      "gameurl": "https://poki.com/en/g/match-arena",
-      "gamename": "Match Arena",
-      "orientation": false,
-      "category": "new puzzle"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/85db6b2eb81ca64d881a950a43744389.png",
-      "gameurl": "https://poki.com/en/g/ovo-classic",
-      "gamename": "OvO Classic",
-      "orientation": true,
-      "category": "arcade"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/65c7d262-29a3-4552-912d-58c9fcb05aa8.png",
-      "gameurl": "https://poki.com/en/g/1010-deluxe",
-      "gamename": "1010! Deluxe",
-      "orientation": false,
-      "category": "arcade"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/4617d96c-ae80-40a7-91d8-b5670a994084.png",
-      "gameurl": "https://poki.com/en/g/flyordie-io",
-      "gamename": "EvoWorld io (FlyOrDie io)",
-      "orientation": true,
-      "category": ".io Games"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/a151c8ec0e7758c6fa0ef06ff540e911.jpeg",
-      "gameurl": "https://poki.com/en/g/parkour-race",
-      "gamename": "Parkour Race",
-      "orientation": false,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/e73786fd151eedc6ca4f1323fe6c5aa2.png",
-      "gameurl": "https://poki.com/en/g/fairy-dressup",
-      "gamename": "Fairy Dress-Up",
-      "orientation": true,
-      "category": "girls"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0cf85634812c42993399de175cd5bd00.jpeg",
-      "gameurl": "https://poki.com/en/g/tennis-masters",
-      "gamename": "Tennis Masters",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/bc02c9cdfc5b424ddf343b01edf791ce.png",
-      "gameurl": "https://poki.com/en/g/basketball-stars",
-      "gamename": "Basketball Stars",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7b6f54cf-e1b2-4e69-a84e-1c1f49e54c53.png",
-      "gameurl": "https://poki.com/en/g/penalty-shooters-2",
-      "gamename": "Penalty Shooters 2",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7336e7ac04f8c0a88fac674d112ad77c.png",
-      "gameurl": "https://poki.com/en/g/football-legends",
-      "gamename": "Football Legends",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/d13f7212a1c1108f4298f8e89f5dd578c54de6042a830535e90665d2ecf24b90.png",
-      "gameurl": "https://poki.com/en/g/power-badminton",
-      "gamename": "Power Badminton",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/a9d84b22bc87dc97bcd8ca7a60893404.png",
-      "gameurl": "https://poki.com/en/g/cricket-world-cup",
-      "gamename": "Cricket World Cup",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7646b2845cf9112ef42a3cd769eeac6e.png",
-      "gameurl": "https://poki.com/en/g/a-small-world-cup",
-      "gamename": "A Small World Cup",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/6ed4fe5c596152a83c39b738e8ac379d.png",
-      "gameurl": "https://poki.com/en/g/super-liquid-soccer",
-      "gamename": "https://poki.com/en/g/super-liquid-soccer",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/5aae527bebe68094c3d3276387150197.png",
-      "gameurl": "https://poki.com/en/g/basketball-frvr",
-      "gamename": "Basketball FRVR",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/ee9ca3764ef4289a48a1ebf457ef605441ed1f35a0f2eb12707a70d609e53686.png",
-      "gameurl": "https://poki.com/en/g/retro-bowl",
-      "gamename": "Retro Bowl",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/1a9642e779cab413962255ea953d1155.png",
-      "gameurl": "https://poki.com/en/g/soccer-skills-world-cup",
-      "gamename": "Soccer Skills World Cup",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0424ffff7a2f9d29299dae909c3ad5bf.png",
-      "gameurl": "https://poki.com/en/g/soccer-skills-champions-league",
-      "gamename": "Soccer Skills Champions League",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/aa850a3705bb31cc524fec36f8d31320.jpeg",
-      "gameurl": "https://poki.com/en/g/ping-pong-html5",
-      "gamename": "Ping Pong",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/4089ea8322c7fe8a5416ef5ee237ea53.png",
-      "gameurl": "https://poki.com/en/g/unicycle-hero",
-      "gamename": "Unicycle Hero",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/a1d3004c30bfd422125e43a558629ad4.png",
-      "gameurl": "https://poki.com/en/g/basketball-legends-2020",
-      "gamename": "Basketball Legends 2020",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/fd33a30950974f929b28e25bd2742a2d.png",
-      "gameurl": "https://poki.com/en/g/penalty-challenge",
-      "gamename": "Penalty Challenge",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/cd1782b250f70b01d6c054fc6e6ae258683dfc3eb657604d9986495403e4d671.png",
-      "gameurl": "https://poki.com/en/g/big-shot-boxing",
-      "gamename": "Big Shot Boxing",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/04b63e83eb14adea7b8d03b71ad1f830.png",
-      "gameurl": "https://poki.com/en/g/free-kick-shooter",
-      "gamename": "Free Kick Shooter",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/f05f818f1d2c0fed54c97098e47fc4a8.png",
-      "gameurl": "https://poki.com/en/g/athletics-hero",
-      "gamename": "Athletics Hero",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/f0748815e89b57f62d068084796c4ed05d43612273938abfca050ffe16ce5261.png",
-      "gameurl": "https://poki.com/en/g/rugby-rush",
-      "gamename": "Rugby Rush",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/280c84e84b0f6bcb5c3d75abf97cf36a.png",
-      "gameurl": "https://poki.com/en/g/bowling-stars",
-      "gamename": "Bowling Stars",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/760becc3912111347a66b8b98c110d2d.png",
-      "gameurl": "https://poki.com/en/g/infinite-soccer",
-      "gamename": "Infinite Soccer",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/17b1fcf5-980e-4c27-b6e3-61bfb80a711d.png",
-      "gameurl": "https://poki.com/en/g/classic-bowling",
-      "gamename": "Classic Bowling",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/33f7fd4622ce5b193850abcec1d34a12.png",
-      "gameurl": "https://poki.com/en/g/foosball",
-      "gamename": "Foosball",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/6d8c2360b6f5a5228802918450754f8f.png",
-      "gameurl": "https://poki.com/en/g/4th-and-goal-2022",
-      "gamename": "4th and Goal 2022",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/61d561d28320609cbfd0daf3fb98cb55.png",
-      "gameurl": "https://poki.com/en/g/golf-champions",
-      "gamename": "Golf Champions",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0024d907-3625-40a0-bf4f-21d97dad21f2.png",
-      "gameurl": "https://poki.com/en/g/ultimate-boxing",
-      "gamename": "Ultimate Boxing",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/0b21da9a784857b2faaf1b262826dc91.png",
-      "gameurl": "https://poki.com/en/g/baseball-kid-pitcher-cup",
-      "gamename": "Baseball Kid Pitcher Cup",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/5cc06f22e46c13e1c7917dad7c48e5dd.png",
-      "gameurl": "https://poki.com/en/g/blumgi-ball",
-      "gamename": "Blumgi Ball",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/cb81e900c335d84f63cc075e654e6464.png",
-      "gameurl": "https://poki.com/en/g/goalkeeper-challenge",
-      "gamename": "Goalkeeper Challenge",
-      "orientation": true,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/82379b63-3345-4ad0-8d00-05cec5a66504.jpg",
-      "gameurl": "https://poki.com/en/g/foot-chinko",
-      "gamename": "Foot Chinko",
-      "orientation": false,
-      "category": "Sports"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/d570ed96bd75ddca4973ebbff12864a9.png",
-      "gameurl": "https://poki.com/en/g/rolling-jump",
-      "gamename": "Rolling Jump",
-      "orientation": false,
-      "category": "action"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/fd22aa26fe2f504e8a0d71fae4dfe202.png",
-      "gameurl": "https://poki.com/en/g/hide-and-smash",
-      "gamename": "Hide and Smash",
-      "orientation": false,
-      "category": "action"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7d0eef3020f2cc401d3861fd8d45f2d3.png",
-      "gameurl": "https://poki.com/en/g/stickman-crazy-box",
-      "gamename": "Stickman Crazy Box",
-      "orientation": true,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7a92daef9c9428fcd560f4dd598a323a.png",
-      "gameurl": "https://poki.com/en/g/g-switch-4",
-      "gamename": "G-Switch 4",
-      "orientation": true,
-      "category": "action"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/063f23b28c522698367ec13ffec8098a.png",
-      "gameurl": "https://poki.com/en/g/blocky-universe",
-      "gamename": "Blocky Universe",
-      "orientation": false,
-      "category": "action"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/68f89be87316eecf6273434cbada011e.png",
-      "gameurl": "https://poki.com/en/g/simplyupio",
-      "gamename": "SimplyUp.io",
-      "orientation": false,
-      "category": ".io Games"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/cad360531002e844bda8d5647a87c424.png",
-      "gameurl": "https://poki.com/en/g/the-sniper-code",
-      "gamename": "The Sniper Code",
-      "orientation": true,
-      "category": "shooting"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/1695f696e3e003931f6091a3e4af487d.png",
-      "gameurl": "https://poki.com/en/g/stickman-fighter-epic-battle",
-      "gamename": "Stickman Fighter: Epic Battle",
-      "orientation": false,
-      "category": "Stickman"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/7748ae68e29db89aafcdfe0368be0d7dde654cb43d0111e3d4f102295bbbf11f.png",
-      "gameurl": "https://poki.com/en/g/rebels-clash",
-      "gamename": "Rebels Clash",
-      "orientation": true,
-      "category": "shooting"
-  },
-  {
-      "gametype": "pk",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,f=auto/e8a5f2eda2e5340e8ded263692835caa.png",
-      "gameurl": "https://poki.com/en/g/hills-of-steel",
-      "gamename": "Hills of Steel",
-      "orientation": true,
-      "category": "simulation"
-  },
-    {
-      "gametype": "cz",
-      "gamename": "Chess-Online-Multiplayer-Game",
-      "imageurl": "https://images.crazygames.com/chess-online-multiplayer-game/20221128113100/chess-online-multiplayer-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/chess-online-multiplayer-game",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "City-Takeover",
-      "imageurl": "https://images.crazygames.com/games/city-takeover/cover_16x9-1699349410155.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/city-takeover",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Draw-Crash-Race",
-      "imageurl": "https://images.crazygames.com/draw-crash-race/20230623071849/draw-crash-race-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/draw-crash-race",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Drift-Boss",
-      "imageurl": "https://images.crazygames.com/games/drift-boss/cover-1626884625264.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/drift-boss",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Fishland",
-      "imageurl": "https://images.crazygames.com/fishland_16x9/20231206102213/fishland_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/fishland",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Giant-Rush",
-      "imageurl": "https://images.crazygames.com/giant-rush_16x9/20231204150701/giant-rush_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/giant-rush",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Helix-Jump",
-      "imageurl": "https://images.crazygames.com/helix-jump/20220519091317/helix-jump-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/helix-jump",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Home-Flip",
-      "imageurl": "https://images.crazygames.com/home-flip_16x9/20231004111234/home-flip_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/home-flip",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Jailbreak-Hide-Or-Attack",
-      "imageurl": "https://images.crazygames.com/jailbreak-hide-or-attack_16x9/20231025040559/jailbreak-hide-or-attack_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/jailbreak-hide-or-attack",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Jet-Rush",
-      "imageurl": "https://images.crazygames.com/games/jet-rush/cover-1663772569110.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/jet-rush",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Man-Runner-2048",
-      "imageurl": "https://images.crazygames.com/man-runner-2048_16x9/20230928182211/man-runner-2048_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/man-runner-2048",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Master-Chess",
-      "imageurl": "https://images.crazygames.com/games/master-chess/cover-1624894080822.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/master-chess",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Merge-Fruits",
-      "imageurl": "https://images.crazygames.com/merge-fruits_16x9/20231206083411/merge-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/merge-fruits",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Obstacle Race Destroying Simulator",
-      "imageurl": "https://images.crazygames.com/obstacle-race-destroying-simulator_16x9/20231122094756/obstacle-race-destroying-simulator_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/obstacle-race-destroying-simulator",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Office-Fight",
-      "imageurl": "https://images.crazygames.com/office-fight_16x9/20231207090131/office-fight_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/office-fight",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Square-Bird",
-      "imageurl": "https://images.crazygames.com/square-bird/20200824184016/square-bird-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/square-bird",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Squishy-Fruits",
-      "imageurl": "https://images.crazygames.com/squishy-fruits_16x9/20231207084058/squishy-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/squishy-fruits",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Teeth-Runner",
-      "imageurl": "https://images.crazygames.com/teeth-runner_16x9/20231129025606/teeth-runner_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Casual Games",
-      "gameurl": "https://www.crazygames.com/game/teeth-runner",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Block-Champ",
-      "imageurl": "https://images.crazygames.com/block-champ/20230718091523/block-champ-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/block-champ",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Butterfly-Shimai",
-      "imageurl": "https://images.crazygames.com/butterfly-shimai/20230714171358/butterfly-shimai-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/butterfly-shimai",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Cups--Water-Sort-Puzzle",
-      "imageurl": "https://images.crazygames.com/cups---water-sort-puzzle_16x9/20230829022932/cups---water-sort-puzzle_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/cups---water-sort-puzzle",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Favorite-Puzzles",
-      "imageurl": "https://images.crazygames.com/favorite-puzzles_16x9/20230828102131/favorite-puzzles_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/favorite-puzzles",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Ludo-Hero",
-      "imageurl": "https://images.crazygames.com/ludo-king_16x9/20231018093802/ludo-king_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/ludo-hero",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Match-Arena",
-      "imageurl": "https://images.crazygames.com/games/match-arena/cover-1666877691339.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/match-arena",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Onet-Connect-Classic",
-      "imageurl": "https://images.crazygames.com/onet-connect-classic/20221031124049/onet-connect-classic-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/onet-connect-classic",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Pipes-The-Puzzle",
-      "imageurl": "https://images.crazygames.com/pipes-the-puzzle/20230208034311/pipes-the-puzzle-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/pipes-the-puzzle",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Rope-Color-Sort-3d",
-      "imageurl": "https://images.crazygames.com/rope-color-sort-3d/20230405164311/rope-color-sort-3d-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/rope-color-sort-3d",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Sandtrix",
-      "imageurl": "https://images.crazygames.com/sandtrix_16x9/20231116070723/sandtrix_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/sandtrix",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Skydom-Reforged",
-      "imageurl": "https://images.crazygames.com/skydom-reforged/20221108174536/skydom-reforged-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/skydom-reforged",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Tic-Tac-Toe",
-      "imageurl": "https://images.crazygames.com/games/tic-tac-toe/thumb-1579168809142.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/tic-tac-toe",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Tower-Swap",
-      "imageurl": "https://images.crazygames.com/tower-swap_16x9/20231010024249/tower-swap_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/tower-swap",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Wood-Block-Journey",
-      "imageurl": "https://images.crazygames.com/wood-block-journey_16x9/20230907100852/wood-block-journey_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/wood-block-journey",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Words-Of-Wonders",
-      "imageurl": "https://images.crazygames.com/words-of-wonders_16x9/20231019163757/words-of-wonders_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/words-of-wonders",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Word-Wipe",
-      "imageurl": "https://images.crazygames.com/word-wipe/20230720183725/word-wipe-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Puzzle Games",
-      "gameurl": "https://www.crazygames.com/game/word-wipe",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Subway Sufers",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/subway-surfers",
-      "orientation": true
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Temple Run 2",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/temple-run-2",
-      "orientation": true
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Sushi-Party-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/sushi-party-io",
-      "orientation": true
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Water-Color-Sort",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bea9b33040f3776e709fbe8c6e23c623.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/water-color-sort",
-      "orientation": true
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Word-City-Uncrossed",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/06140fc170bb8a3282537aaf1242bed6.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/word-city-uncrossed",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Panda-Bubble-Shooter",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/575d8cdc8afccb74a6defb4c113ade4c.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/panda-bubble-shooter",
-      "orientation": true
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Mekorama",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/56cba7ef0668cad515855b98be92ac16.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/mekorama",
-      "orientation": true
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Stickman-Hook",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
-      "category": "Popular Games",
-      "gameurl": "https://poki.com/en/g/stickman-hook",
-      "orientation": true
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Winter-Clash-3d",
-      "imageurl": "https://images.crazygames.com/games/winter-clash-3d/cover-1584470160643.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/winter-clash-3d",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Soccer-Dash",
-      "imageurl": "https://images.crazygames.com/soccer-dash/20230217130325/soccer-dash-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/soccer-dash",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Penalty-Rivals",
-      "imageurl": "https://images.crazygames.com/penalty-rivals_16x9/20231123095210/penalty-rivals_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/penalty-rivals",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Find-The-Alien",
-      "imageurl": "https://images.crazygames.com/find-the-alien_16x9/20231205105953/find-the-alien_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/find-the-alien",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Shadow-Bullet",
-      "imageurl": "https://images.crazygames.com/shadow-bullet_16x9/20231204094416/shadow-bullet_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/shadow-bullet",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Monster-Trainer-Catching-Game",
-      "imageurl": "https://images.crazygames.com/monster-trainer-catching-game_16x9/20231204154316/monster-trainer-catching-game_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/monster-trainer-catching-game",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Tiny-Fishing",
-      "imageurl": "https://images.crazygames.com/games/tiny-fishing/cover-1680026294037.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/tiny-fishing",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Subway-Clash-Remastered",
-      "imageurl": "https://images.crazygames.com/subway-clash-remastered/20210429120753/subway-clash-remastered-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/subway-clash-remastered",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Oneline",
-      "imageurl": "https://images.crazygames.com/oneline/20220905160742/oneline-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/oneline",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Airport-Clash-3d",
-      "imageurl": "https://images.crazygames.com/games/airport-clash-3d/cover-1584470268242.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/airport-clash-3d",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Vegas-Clash-3d-yxd",
-      "imageurl": "https://images.crazygames.com/vegas-clash-3d-yxd/20211015093735/vegas-clash-3d-yxd-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/vegas-clash-3d-yxd",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Sniper-Clash-3d",
-      "imageurl": "https://images.crazygames.com/games/sniper-clash-3d/cover-1584470271989.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Popular Games",
-      "gameurl": "https://www.crazygames.com/game/sniper-clash-3d",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Cubes-2048-IO",
-      "imageurl": "https://images.crazygames.com/games/cubes-2048-io/cover_2x3-1693298929612.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Our Special",
-      "gameurl": "https://www.crazygames.com/game/cubes-2048-io",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Goober-Dash",
-      "imageurl": "https://images.crazygames.com/goober-dash_2x3/20231002025034/goober-dash_2x3-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Our Special",
-      "gameurl": "https://www.crazygames.com/game/goober-dash",
-      "orientation": false
-    },
-    {
-      "gametype": "c",
-      "gamename": "Funny-Daycare",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6f2136c5a99fc209eaf07e6b3bd069a0.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/funny-daycare",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Stickman-Bridge-Constructor",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/557d8f9dd1e9c4a3b76b0988e45cb9af.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/stickman-bridge-constructor",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Flip-Bros",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6ad0d4d2e71f77da3bd821348dd89e97.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/flip-bros",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Poor-Eddie",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bf83e47208822a41d35d8dc5f8fd0bb3.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/poor-eddie",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Thumb-Fighter",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6e8ca2d5ef528d56bbbb57e26e6d18f9.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/thumb-fighter",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Bottle-Flip",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ce41fca3-947a-4deb-a341-c0cc55480db6.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/bottle-flip",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Murder",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
-      "category": "Our Special",
-      "gameurl": "https://poki.com/en/g/murder",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Barbiemania",
-      "imageurl": "https://images.crazygames.com/barbiemania/20230721171538/barbiemania-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/barbiemania",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Emergency-Surgery",
-      "imageurl": "https://images.crazygames.com/emergency-surgery/20221031133327/emergency-surgery-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/emergency-surgery",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Fashion-Box-Christmas-Diva",
-      "imageurl": "https://images.crazygames.com/fashion-box-christmas-diva/20221223222204/fashion-box-christmas-diva-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/fashion-box-christmas-diva",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Fashion-Challenge-Catwalk-Run",
-      "imageurl": "https://images.crazygames.com/fashion-challenge-catwalk-run/20230602085423/fashion-challenge-catwalk-run-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/fashion-challenge-catwalk-run",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Funny-Kitty-Care",
-      "imageurl": "https://images.crazygames.com/funny-kitty-care/20220512164504/funny-kitty-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/funny-kitty-care",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Funny-Puppy-Care",
-      "imageurl": "https://images.crazygames.com/funny-puppy-care/20220420173746/funny-puppy-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/funny-puppy-care",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Live-Avatar-Maker-Girls",
-      "imageurl": "https://images.crazygames.com/live-avatar-maker-girls/20221212162856/live-avatar-maker-girls-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/live-avatar-maker-girls",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Model-Wedding---Girls-Games",
-      "imageurl": "https://images.crazygames.com/model-wedding---girls-games/20230524034032/model-wedding---girls-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/model-wedding---girls-games",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Nail-Art-Salon-For-Girls",
-      "imageurl": "https://images.crazygames.com/nail-art-salon-for-girls_16x9/20231019072026/nail-art-salon-for-girls_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/nail-art-salon-for-girls",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Royal-Dress-Up--Fashion-Queen",
-      "imageurl": "https://images.crazygames.com/royal-dress-up---fashion-queen/20230531090700/royal-dress-up---fashion-queen-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/royal-dress-up---fashion-queen",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Tictoc-Kpop-Fashion",
-      "imageurl": "https://images.crazygames.com/tictoc-kpop-fashion/20220727085336/tictoc-kpop-fashion-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Beauty Games",
-      "gameurl": "https://www.crazygames.com/game/tictoc-kpop-fashion",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Dress-Up-The-Lovely-Princess",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1eefed164c2b690fc62b22568cfe7db8.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/dress-up-the-lovely-princess",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Pony-Dressup-2",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9f07237f8362bcb7800df4a1ab91ab92.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/pony-dressup-2",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Pony-Dressup",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/95277058e6aa659534d527eff75b5c87.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/pony-dressup",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Ellie-And-Ben-Date-Night",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/32275773ac5110498a2b90ba900462ed.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/ellie-and-ben-date-night",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Hipster-Vs-Rockers",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/60b29f784b17caf93a3cecc36885722a4c312dcc4a30a31ef4ebaf1c2381ac90.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/hipster-vs-rockers",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Princess-Lovely-Fashion",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8f86d78757961db16e64e8c8c5a116e1.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/princess-lovely-fashion",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Summer-Fashion-Makeover",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f9d8cb2c53343113a638a9567322392e.png",
-      "category": "Beauty Games",
-      "gameurl": "https://poki.com/en/g/summer-fashion-makeover",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Stickman-Miners-Wars",
-      "imageurl": "https://images.crazygames.com/stickman-miners-wars_16x9/20231220081459/stickman-miners-wars_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Action Games",
-      "gameurl": "https://www.crazygames.com/game/stickman-miners-wars",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Combat-Reloaded",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1c8089f7-7254-4cbf-b8bc-7581cd5412e4.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/combat-reloaded",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Combat-Reloaded-2",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ad3def86043b739c7720b3098ae15b.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/combat-reloaded-2",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Rebels-Clash",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7748ae68e29db89aafcdfe0368be0d7dde654cb43d0111e3d4f102295bbbf11f.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/rebels-clash",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Stick-Merge",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/stick-merge",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Subway-Clash-3d",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/subway-clash-3d",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "The-Sniper-Code",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cad360531002e844bda8d5647a87c424.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/the-sniper-code",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Yohoho-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9b373b5219cd66a82389d81d7cda8e23.jpeg",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/yohoho-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Sharkio",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0939cf73a9569bd7e17d7a8023234a04.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/sharkio",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Flyordie-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4617d96c-ae80-40a7-91d8-b5670a994084.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/flyordie-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Drift-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/110bb77be2f5589f9a1b230473ec6537.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/drift-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Ducklings-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a55d935638969875b674471530c0e0a1.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/ducklings-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Lurkers-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ed40b8ade4e9f5bbf1fa7b3acef3a3.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/lurkers-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Superbrawl",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0a74431daeac6d9684b11155842d97a1.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/superbrawl",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Hide-And-Smash",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fd22aa26fe2f504e8a0d71fae4dfe202.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/hide-and-smash",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Tribals-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0e49f86ec1509ef756fadeefa0ce917c.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/tribals-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Venge-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4e9734801150c81ec2c760b02116b3ac.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/venge-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Pinturillo-2",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3cf6b3ed65d9b7e54488f997610b5dfc.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/pinturillo-2",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Thunderdogs-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/79c9eae7-290f-4952-8d84-a446fc102557.jpg",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/thunderdogs-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Golfparty-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/10ed8a93c1235389a79fe5ae1139b783.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/golfparty-io",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Narrow-one",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e6705ae9f391f728af42e5ac894dce8c.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/narrow-one",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Simplyupio",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4c0179296d2ea99007c0c6fe2cf2d78b.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/simplyupio",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Zoodrop",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4eb7c84576f9c237da9dd755a623bd03.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/zoodrop",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Ninja-io",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cfaf0b218ff6733dc3105227a9b18874.png",
-      "category": "Action Games",
-      "gameurl": "https://poki.com/en/g/ninja-io",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "8-Ball-Billiards-Classic",
-      "imageurl": "https://images.crazygames.com/8-ball-billiards-classic_16x9/20231108025958/8-ball-billiards-classic_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "2 Players Games",
-      "gameurl": "https://www.crazygames.com/game/8-ball-billiards-classic",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Billiards-Pool-8",
-      "imageurl": "https://images.crazygames.com/games/billiards-pool-8/thumb-1570103631999.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "2 Players Games",
-      "gameurl": "https://www.crazygames.com/game/billiards-pool-8",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Bomb-It-5",
-      "imageurl": "https://images.crazygames.com/bombit5b.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "2 Players Games",
-      "gameurl": "https://www.crazygames.com/game/bomb-it-5",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Crazy-Roll-3d",
-      "imageurl": "https://images.crazygames.com/games/crazy-roll-3d/cover_16x9-1693299833079.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "2 Players Games",
-      "gameurl": "https://www.crazygames.com/game/crazy-roll-3d",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Volley-Random",
-      "imageurl": "https://images.crazygames.com/volley-random/20230131173658/volley-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "2 Players Games",
-      "gameurl": "https://www.crazygames.com/game/volley-random",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Capybara-Clicker",
-      "imageurl": "https://images.crazygames.com/games/capybara-clicker/cover-1678290947532.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Clickers Games",
-      "gameurl": "https://www.crazygames.com/game/capybara-clicker",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Fish-Merge-frvr",
-      "imageurl": "https://images.crazygames.com/games/fish-merge-frvr/cover-1621940229740.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Clickers Games",
-      "gameurl": "https://www.crazygames.com/game/fish-merge-frvr",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Idle-Pet-Business",
-      "imageurl": "https://images.crazygames.com/idle-pet-business/20220919183727/idle-pet-business-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Clickers Games",
-      "gameurl": "https://www.crazygames.com/game/idle-pet-business",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Idle-Pinball-Breakout",
-      "imageurl": "https://images.crazygames.com/idle-pinball-breakout/20210105102537/idle-pinball-breakout-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Clickers Games",
-      "gameurl": "https://www.crazygames.com/game/idle-pinball-breakout",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Mineclicker",
-      "imageurl": "https://images.crazygames.com/mineclicker/20201110134116/mineclicker-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Clickers Games",
-      "gameurl": "https://www.crazygames.com/game/mineclicker",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Herobrine-Vs-Monster-School",
-      "imageurl": "https://images.crazygames.com/herobrine-vs-monster-school/20230120164927/herobrine-vs-monster-school-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "MineCraft Games",
-      "gameurl": "https://www.crazygames.com/game/herobrine-vs-monster-school",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "8-Ball-Pool",
-      "imageurl": "https://images.crazygames.com/games/8-ball-pool/cover-1605091938974.jpeg?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/8-ball-pool",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Archery-Master",
-      "imageurl": "https://images.crazygames.com/archery-master/20221117141013/archery-master-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/archery-master",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Boxing-Random",
-      "imageurl": "https://images.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?auto=format%2Ccompress&q=20&cs=strip&w=216&h=120&fit=crop&dpr=3",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/boxing-random",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Cricket-frvr",
-      "imageurl": "https://images.crazygames.com/games/cricket-frvr/thumb-1577460243742.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/cricket-frvr",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Goalkeeper-Champ",
-      "imageurl": "https://images.crazygames.com/goalkeeperchamp.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/goalkeeper-champ",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Goalkeeper-Wiz",
-      "imageurl": "https://images.crazygames.com/goalkeeper-wiz/20221121164216/goalkeeper-wiz-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/goalkeeper-wiz",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Soccer-Random",
-      "imageurl": "https://images.crazygames.com/soccer-random/20230126093840/soccer-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/soccer-random",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Table-Tennis-World-Tour",
-      "imageurl": "https://images.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Sports Game",
-      "gameurl": "https://www.crazygames.com/game/table-tennis-world-tour",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Baby-Dress-Up",
-      "imageurl": "https://images.crazygames.com/baby-dress-up/20230522071209/baby-dress-up-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Baby Games",
-      "gameurl": "https://www.crazygames.com/game/baby-dress-up",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Candy-Hair-Salon--Doll-Games",
-      "imageurl": "https://images.crazygames.com/candy-hair-salon---doll-games/20230629041011/candy-hair-salon---doll-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Baby Games",
-      "gameurl": "https://www.crazygames.com/game/candy-hair-salon---doll-games",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Chibi-Doll-Dress-Up-Coloring",
-      "imageurl": "https://images.crazygames.com/chibi-doll-dress-up-coloring/20221020040157/chibi-doll-dress-up-coloring-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Baby Games",
-      "gameurl": "https://www.crazygames.com/game/chibi-doll-dress-up-coloring",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Cozy-Room-Design",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7840ca4c8b4bf0843ee1cecfc06696f6.png",
-      "category": "Baby Games",
-      "gameurl": "https://poki.com/en/g/cozy-room-design",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Mermaid-Dress-Up",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/89fbba5cc53657fbe097c640ef989086.png",
-      "category": "Baby Games",
-      "gameurl": "https://poki.com/en/g/mermaid-dress-up",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Feets-Doctor-Urgent-Care",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b8fcf672c1a400378ec4fbe64446fe0c.png",
-      "category": "Baby Games",
-      "gameurl": "https://poki.com/en/g/feets-doctor-urgent-care",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Twins-Adventures-Attic-Surprise",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/eba69c618322043ed349dbf26420a6cb.png",
-      "category": "Baby Games",
-      "gameurl": "https://poki.com/en/g/twins-adventures-attic-surprise",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Dungeons-Dressups",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0d19fb1ebee46a2b8c2987e79f10c72d.png",
-      "category": "Baby Games",
-      "gameurl": "https://poki.com/en/g/dungeons-dressups",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "2048",
-      "imageurl": "https://images.crazygames.com/games/2048/thumb-1577452120997.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/2048",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "2048-Merge",
-      "imageurl": "https://images.crazygames.com/2048merge.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/2048-merge",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Braindom-2-Who-Is-Lying",
-      "imageurl": "https://images.crazygames.com/braindom-2-who-is-lying/20230316184530/braindom-2-who-is-lying-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/braindom-2-who-is-lying",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Brain-Teaser",
-      "imageurl": "https://images.crazygames.com/brain-teaser-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/brain-teaser",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Brain-Trainer",
-      "imageurl": "https://images.crazygames.com/games/brain-trainer/cover-1606895043712.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/brain-trainer",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "EI-Soul",
-      "imageurl": "https://images.crazygames.com/ei-soul_16x9/20231220090359/ei-soul_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/ei-soul",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Heart-Box",
-      "imageurl": "https://images.crazygames.com/heart-box_16x9/20231025101832/heart-box_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/heart-box",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Hexa-Blast-Game",
-      "imageurl": "https://images.crazygames.com/hexa-blast-game/20230203191111/hexa-blast-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/hexa-blast-game",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Math-Push",
-      "imageurl": "https://images.crazygames.com/math-push/20220103160234/math-push-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/math-push",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Stack-It",
-      "imageurl": "https://images.crazygames.com/stack-it_16x9/20230921032106/stack-it_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/stack-it",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Sudoku-Game",
-      "imageurl": "https://images.crazygames.com/sudokugame.png?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/sudoku-game",
-      "orientation": false
-    },
-    {
-      "gametype": "cz",
-      "gamename": "Word-Swipe-uwf",
-      "imageurl": "https://images.crazygames.com/word-swipe-uwf/20230503093134/word-swipe-uwf-cover?quality=100,width=200,height=200,fit=cover,f=auto",
-      "category": "Brain Games",
-      "gameurl": "https://www.crazygames.com/game/word-swipe-uwf",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Arithmetica",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8b3408d50ffebc7659fa5307a19c6175.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/arithmetica",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Math-Trivia-Live",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/25fc3541f37b557d503160b88e6fa3213bf12dd3b5757b79170b238a726a7ce5.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/math-trivia-live",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Sudoku",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fde33f9b7a0e003608c30f07e47bb4a4.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/sudoku",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Math-Mahjong-Relax",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9353086c812f00fc873b6b49c4db5f3f.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/math-mahjong-relax",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Numbers",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ddd68cd4387aad588bd48ca45c2f2290.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/numbers",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Line-Up-Dots",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d6b8ec8c03cba851275b9c0ae823ba3c.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/line-up-dots",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Ultimate-Sudoku",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bc07d0e7d1b5b448e0a932537b4ebf80.png",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/ultimate-sudoku",
-      "orientation": false
-    },
-    {
-      "gametype": "pk",
-      "gamename": "Merge-The-Numbers",
-      "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e963e20cad2f5853ce98d196f6f69b71.jpg",
-      "category": "Brain Games",
-      "gameurl": "https://poki.com/en/g/merge-the-numbers",
-      "orientation": false
-    }
-  ]
-}
+    "data": [
+  
+      {
+        "gametype": "cz",
+        "gamename": "Chess Online Multiplayer Game",
+        "imageurl": "https://images.crazygames.com/chess-online-multiplayer-game/20221128113100/chess-online-multiplayer-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/chess-online-multiplayer-game",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "City Takeover",
+        "imageurl": "https://images.crazygames.com/games/city-takeover/cover_16x9-1699349410155.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/city-takeover",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Draw Crash Race",
+        "imageurl": "https://images.crazygames.com/draw-crash-race/20230623071849/draw-crash-race-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/draw-crash-race",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Drift Boss",
+        "imageurl": "https://images.crazygames.com/games/drift-boss/cover-1626884625264.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/drift-boss",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Fishland",
+        "imageurl": "https://images.crazygames.com/fishland_16x9/20231206102213/fishland_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/fishland",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Giant Rush",
+        "imageurl": "https://images.crazygames.com/giant-rush_16x9/20231204150701/giant-rush_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/giant-rush",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Helix Jump",
+        "imageurl": "https://images.crazygames.com/helix-jump/20220519091317/helix-jump-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/helix-jump",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Home Flip",
+        "imageurl": "https://images.crazygames.com/home-flip_16x9/20231004111234/home-flip_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/home-flip",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Jailbreak Hide Or Attack",
+        "imageurl": "https://images.crazygames.com/jailbreak-hide-or-attack_16x9/20231025040559/jailbreak-hide-or-attack_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/jailbreak-hide-or-attack",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Jet Rush",
+        "imageurl": "https://images.crazygames.com/games/jet-rush/cover-1663772569110.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/jet-rush",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Man Runner 2048",
+        "imageurl": "https://images.crazygames.com/man-runner-2048_16x9/20230928182211/man-runner-2048_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/man-runner-2048",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Master Chess",
+        "imageurl": "https://images.crazygames.com/games/master-chess/cover-1624894080822.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/master-chess",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Merge Fruits",
+        "imageurl": "https://images.crazygames.com/merge-fruits_16x9/20231206083411/merge-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/merge-fruits",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Obstacle Race Destroying Simulator",
+        "imageurl": "https://images.crazygames.com/obstacle-race-destroying-simulator_16x9/20231122094756/obstacle-race-destroying-simulator_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/obstacle-race-destroying-simulator",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Office Fight",
+        "imageurl": "https://images.crazygames.com/office-fight_16x9/20231207090131/office-fight_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/office-fight",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Square Bird",
+        "imageurl": "https://images.crazygames.com/square-bird/20200824184016/square-bird-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/square-bird",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Squishy Fruits",
+        "imageurl": "https://images.crazygames.com/squishy-fruits_16x9/20231207084058/squishy-fruits_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/squishy-fruits",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Teeth Runner",
+        "imageurl": "https://images.crazygames.com/teeth-runner_16x9/20231129025606/teeth-runner_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Casual Games",
+        "gameurl": "https://www.crazygames.com/game/teeth-runner",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Block Champ",
+        "imageurl": "https://images.crazygames.com/block-champ/20230718091523/block-champ-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/block-champ",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Butterfly Shimai",
+        "imageurl": "https://images.crazygames.com/butterfly-shimai/20230714171358/butterfly-shimai-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/butterfly-shimai",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Cups Water Sort Puzzle",
+        "imageurl": "https://images.crazygames.com/cups---water-sort-puzzle_16x9/20230829022932/cups---water-sort-puzzle_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/cups---water-sort-puzzle",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Favorite Puzzles",
+        "imageurl": "https://images.crazygames.com/favorite-puzzles_16x9/20230828102131/favorite-puzzles_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/favorite-puzzles",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Ludo Hero",
+        "imageurl": "https://images.crazygames.com/ludo-king_16x9/20231018093802/ludo-king_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/ludo-hero",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Match Arena",
+        "imageurl": "https://images.crazygames.com/games/match-arena/cover-1666877691339.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/match-arena",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Onet Connect Classic",
+        "imageurl": "https://images.crazygames.com/onet-connect-classic/20221031124049/onet-connect-classic-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/onet-connect-classic",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Pipes The Puzzle",
+        "imageurl": "https://images.crazygames.com/pipes-the-puzzle/20230208034311/pipes-the-puzzle-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/pipes-the-puzzle",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Rope Color Sort 3d",
+        "imageurl": "https://images.crazygames.com/rope-color-sort-3d/20230405164311/rope-color-sort-3d-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/rope-color-sort-3d",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Sandtrix",
+        "imageurl": "https://images.crazygames.com/sandtrix_16x9/20231116070723/sandtrix_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/sandtrix",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Skydom Reforged",
+        "imageurl": "https://images.crazygames.com/skydom-reforged/20221108174536/skydom-reforged-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/skydom-reforged",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Tic Tac Toe",
+        "imageurl": "https://images.crazygames.com/games/tic-tac-toe/thumb-1579168809142.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/tic-tac-toe",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Tower Swap",
+        "imageurl": "https://images.crazygames.com/tower-swap_16x9/20231010024249/tower-swap_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/tower-swap",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Wood Block Journey",
+        "imageurl": "https://images.crazygames.com/wood-block-journey_16x9/20230907100852/wood-block-journey_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/wood-block-journey",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Words Of Wonders",
+        "imageurl": "https://images.crazygames.com/words-of-wonders_16x9/20231019163757/words-of-wonders_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/words-of-wonders",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Word Wipe",
+        "imageurl": "https://images.crazygames.com/word-wipe/20230720183725/word-wipe-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Puzzle Games",
+        "gameurl": "https://www.crazygames.com/game/word-wipe",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Subway Sufers",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/81a0a3f18cf0ee129e56edb50fc52c3b.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/subway-surfers",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Temple Run 2",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/temple-run-2",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Sushi Party io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/sushi-party-io",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Water Color Sort",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bea9b33040f3776e709fbe8c6e23c623.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/water-color-sort",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Word City Uncrossed",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/06140fc170bb8a3282537aaf1242bed6.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/word-city-uncrossed",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Panda Bubble Shooter",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/575d8cdc8afccb74a6defb4c113ade4c.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/panda-bubble-shooter",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Mekorama",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/56cba7ef0668cad515855b98be92ac16.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/mekorama",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Stickman Hook",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
+        "category": "Popular Games",
+        "gameurl": "https://poki.com/en/g/stickman-hook",
+        
+        "orientation": true
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Winter Clash 3d",
+        "imageurl": "https://images.crazygames.com/games/winter-clash-3d/cover-1584470160643.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/winter-clash-3d",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Soccer Dash",
+        "imageurl": "https://images.crazygames.com/soccer-dash/20230217130325/soccer-dash-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/soccer-dash",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Penalty Rivals",
+        "imageurl": "https://images.crazygames.com/penalty-rivals_16x9/20231123095210/penalty-rivals_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/penalty-rivals",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Find The Alien",
+        "imageurl": "https://images.crazygames.com/find-the-alien_16x9/20231205105953/find-the-alien_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/find-the-alien",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Shadow Bullet",
+        "imageurl": "https://images.crazygames.com/shadow-bullet_16x9/20231204094416/shadow-bullet_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/shadow-bullet",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Monster Trainer Catching Game",
+        "imageurl": "https://images.crazygames.com/monster-trainer-catching-game_16x9/20231204154316/monster-trainer-catching-game_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/monster-trainer-catching-game",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Tiny Fishing",
+        "imageurl": "https://images.crazygames.com/games/tiny-fishing/cover-1680026294037.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/tiny-fishing",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Subway Clash Remastered",
+        "imageurl": "https://images.crazygames.com/subway-clash-remastered/20210429120753/subway-clash-remastered-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/subway-clash-remastered",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Oneline",
+        "imageurl": "https://images.crazygames.com/oneline/20220905160742/oneline-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/oneline",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Airport Clash 3d",
+        "imageurl": "https://images.crazygames.com/games/airport-clash-3d/cover-1584470268242.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/airport-clash-3d",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Vegas Clash 3d yxd",
+        "imageurl": "https://images.crazygames.com/vegas-clash-3d-yxd/20211015093735/vegas-clash-3d-yxd-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/vegas-clash-3d-yxd",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Sniper Clash 3d",
+        "imageurl": "https://images.crazygames.com/games/sniper-clash-3d/cover-1584470271989.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Popular Games",
+        "gameurl": "https://www.crazygames.com/game/sniper-clash-3d",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Cubes 2048 IO",
+        "imageurl": "https://images.crazygames.com/games/cubes-2048-io/cover_2x3-1693298929612.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Our Special",
+        "gameurl": "https://www.crazygames.com/game/cubes-2048-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Goober Dash",
+        "imageurl": "https://images.crazygames.com/goober-dash_2x3/20231002025034/goober-dash_2x3-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Our Special",
+        "gameurl": "https://www.crazygames.com/game/goober-dash",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "c",
+        "gamename": "Funny Daycare",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6f2136c5a99fc209eaf07e6b3bd069a0.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/funny-daycare",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Stickman Bridge Constructor",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/557d8f9dd1e9c4a3b76b0988e45cb9af.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/stickman-bridge-constructor",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Flip Bros",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6ad0d4d2e71f77da3bd821348dd89e97.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/flip-bros",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Poor Eddie",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bf83e47208822a41d35d8dc5f8fd0bb3.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/poor-eddie",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Thumb Fighter",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/6e8ca2d5ef528d56bbbb57e26e6d18f9.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/thumb-fighter",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Bottle Flip",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ce41fca3-947a-4deb-a341-c0cc55480db6.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/bottle-flip",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Murder",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
+        "category": "Our Special",
+        "gameurl": "https://poki.com/en/g/murder",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Barbiemania",
+        "imageurl": "https://images.crazygames.com/barbiemania/20230721171538/barbiemania-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/barbiemania",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Emergency Surgery",
+        "imageurl": "https://images.crazygames.com/emergency-surgery/20221031133327/emergency-surgery-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/emergency-surgery",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Fashion Box Christmas Diva",
+        "imageurl": "https://images.crazygames.com/fashion-box-christmas-diva/20221223222204/fashion-box-christmas-diva-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/fashion-box-christmas-diva",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Fashion Challenge Catwalk Run",
+        "imageurl": "https://images.crazygames.com/fashion-challenge-catwalk-run/20230602085423/fashion-challenge-catwalk-run-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/fashion-challenge-catwalk-run",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Funny Kitty Care",
+        "imageurl": "https://images.crazygames.com/funny-kitty-care/20220512164504/funny-kitty-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/funny-kitty-care",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Funny Puppy Care",
+        "imageurl": "https://images.crazygames.com/funny-puppy-care/20220420173746/funny-puppy-care-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/funny-puppy-care",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Live Avatar Maker Girls",
+        "imageurl": "https://images.crazygames.com/live-avatar-maker-girls/20221212162856/live-avatar-maker-girls-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/live-avatar-maker-girls",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Model Wedding",
+        "imageurl": "https://images.crazygames.com/model-wedding---girls-games/20230524034032/model-wedding---girls-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/model-wedding---girls-games",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Nail Art Salon",
+        "imageurl": "https://images.crazygames.com/nail-art-salon-for-girls_16x9/20231019072026/nail-art-salon-for-girls_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/nail-art-salon-for-girls",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Royal Dress Up",
+        "imageurl": "https://images.crazygames.com/royal-dress-up---fashion-queen/20230531090700/royal-dress-up---fashion-queen-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/royal-dress-up---fashion-queen",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Tictoc Kpop Fashion",
+        "imageurl": "https://images.crazygames.com/tictoc-kpop-fashion/20220727085336/tictoc-kpop-fashion-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Beauty Games",
+        "gameurl": "https://www.crazygames.com/game/tictoc-kpop-fashion",
+       
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Dress Up The Lovely Princess",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1eefed164c2b690fc62b22568cfe7db8.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/dress-up-the-lovely-princess",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Pony Dressup 2",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9f07237f8362bcb7800df4a1ab91ab92.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/pony-dressup-2",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Pony Dressup",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/95277058e6aa659534d527eff75b5c87.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/pony-dressup",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Ellie And Ben Date Night",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/32275773ac5110498a2b90ba900462ed.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/ellie-and-ben-date-night",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Hipster Vs Rockers",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/60b29f784b17caf93a3cecc36885722a4c312dcc4a30a31ef4ebaf1c2381ac90.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/hipster-vs-rockers",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Princess Lovely Fashion",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8f86d78757961db16e64e8c8c5a116e1.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/princess-lovely-fashion",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Summer Fashion Makeover",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/f9d8cb2c53343113a638a9567322392e.png",
+        "category": "Beauty Games",
+        "gameurl": "https://poki.com/en/g/summer-fashion-makeover",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Stickman Miners Wars",
+        "imageurl": "https://images.crazygames.com/stickman-miners-wars_16x9/20231220081459/stickman-miners-wars_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Action Games",
+        "gameurl": "https://www.crazygames.com/game/stickman-miners-wars",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Combat Reloaded",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/1c8089f7-7254-4cbf-b8bc-7581cd5412e4.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/combat-reloaded",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Combat Reloaded 2",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ad3def86043b739c7720b3098ae15b.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/combat-reloaded-2",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Rebels Clash",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7748ae68e29db89aafcdfe0368be0d7dde654cb43d0111e3d4f102295bbbf11f.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/rebels-clash",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Stick Merge",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/stick-merge",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Subway Clash 3d",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/subway-clash-3d",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "The Sniper Code",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cad360531002e844bda8d5647a87c424.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/the-sniper-code",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Yohoho io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9b373b5219cd66a82389d81d7cda8e23.jpeg",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/yohoho-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Sharkio",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0939cf73a9569bd7e17d7a8023234a04.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/sharkio",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Flyordie io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4617d96c-ae80-40a7-91d8-b5670a994084.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/flyordie-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Drift io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/110bb77be2f5589f9a1b230473ec6537.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/drift-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Ducklings io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/a55d935638969875b674471530c0e0a1.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/ducklings-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Lurkers io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/84ed40b8ade4e9f5bbf1fa7b3acef3a3.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/lurkers-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Superbrawl",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0a74431daeac6d9684b11155842d97a1.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/superbrawl",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Hide And Smash",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fd22aa26fe2f504e8a0d71fae4dfe202.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/hide-and-smash",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Tribals io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0e49f86ec1509ef756fadeefa0ce917c.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/tribals-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Venge io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4e9734801150c81ec2c760b02116b3ac.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/venge-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Pinturillo 2",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/3cf6b3ed65d9b7e54488f997610b5dfc.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/pinturillo-2",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Thunderdogs io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/79c9eae7-290f-4952-8d84-a446fc102557.jpg",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/thunderdogs-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Golfparty io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/10ed8a93c1235389a79fe5ae1139b783.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/golfparty-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Narrow one",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e6705ae9f391f728af42e5ac894dce8c.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/narrow-one",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Simplyupio",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4c0179296d2ea99007c0c6fe2cf2d78b.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/simplyupio",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Zoodrop",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/4eb7c84576f9c237da9dd755a623bd03.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/zoodrop",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Ninja io",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/cfaf0b218ff6733dc3105227a9b18874.png",
+        "category": "Action Games",
+        "gameurl": "https://poki.com/en/g/ninja-io",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Ball Billiards Classic",
+        "imageurl": "https://images.crazygames.com/8-ball-billiards-classic_16x9/20231108025958/8-ball-billiards-classic_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "2 Players Games",
+        "gameurl": "https://www.crazygames.com/game/8-ball-billiards-classic",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Billiards Pool 8",
+        "imageurl": "https://images.crazygames.com/games/billiards-pool-8/thumb-1570103631999.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "2 Players Games",
+        "gameurl": "https://www.crazygames.com/game/billiards-pool-8",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Bomb It 5",
+        "imageurl": "https://images.crazygames.com/bombit5b.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "2 Players Games",
+        "gameurl": "https://www.crazygames.com/game/bomb-it-5",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Crazy Roll 3d",
+        "imageurl": "https://images.crazygames.com/games/crazy-roll-3d/cover_16x9-1693299833079.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "2 Players Games",
+        "gameurl": "https://www.crazygames.com/game/crazy-roll-3d",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Volley Random",
+        "imageurl": "https://images.crazygames.com/volley-random/20230131173658/volley-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "2 Players Games",
+        "gameurl": "https://www.crazygames.com/game/volley-random",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Capybara Clicker",
+        "imageurl": "https://images.crazygames.com/games/capybara-clicker/cover-1678290947532.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Clickers Games",
+        "gameurl": "https://www.crazygames.com/game/capybara-clicker",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Fish-Merge-frvr",
+        "imageurl": "https://images.crazygames.com/games/fish-merge-frvr/cover-1621940229740.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Clickers Games",
+        "gameurl": "https://www.crazygames.com/game/fish-merge-frvr",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Idle Pet Business",
+        "imageurl": "https://images.crazygames.com/idle-pet-business/20220919183727/idle-pet-business-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Clickers Games",
+        "gameurl": "https://www.crazygames.com/game/idle-pet-business",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Idle Pinball Breakout",
+        "imageurl": "https://images.crazygames.com/idle-pinball-breakout/20210105102537/idle-pinball-breakout-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Clickers Games",
+        "gameurl": "https://www.crazygames.com/game/idle-pinball-breakout",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Mineclicker",
+        "imageurl": "https://images.crazygames.com/mineclicker/20201110134116/mineclicker-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Clickers Games",
+        "gameurl": "https://www.crazygames.com/game/mineclicker",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Herobrine Monster School",
+        "imageurl": "https://images.crazygames.com/herobrine-vs-monster-school/20230120164927/herobrine-vs-monster-school-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "MineCraft Games",
+        "gameurl": "https://www.crazygames.com/game/herobrine-vs-monster-school",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Ball Pool",
+        "imageurl": "https://images.crazygames.com/games/8-ball-pool/cover-1605091938974.jpeg?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/8-ball-pool",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Archery Master",
+        "imageurl": "https://images.crazygames.com/archery-master/20221117141013/archery-master-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/archery-master",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Boxing Random",
+        "imageurl": "https://images.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?auto=format%2Ccompress&q=20&cs=strip&w=216&h=120&fit=crop&dpr=3",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/boxing-random",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Cricket frvr",
+        "imageurl": "https://images.crazygames.com/games/cricket-frvr/thumb-1577460243742.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/cricket-frvr",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Goalkeeper Champ",
+        "imageurl": "https://images.crazygames.com/goalkeeperchamp.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/goalkeeper-champ",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Goalkeeper-Wiz",
+        "imageurl": "https://images.crazygames.com/goalkeeper-wiz/20221121164216/goalkeeper-wiz-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/goalkeeper-wiz",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Soccer-Random",
+        "imageurl": "https://images.crazygames.com/soccer-random/20230126093840/soccer-random-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/soccer-random",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Table Tennis World Tour",
+        "imageurl": "https://images.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Sports Game",
+        "gameurl": "https://www.crazygames.com/game/table-tennis-world-tour",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Baby Dress Up",
+        "imageurl": "https://images.crazygames.com/baby-dress-up/20230522071209/baby-dress-up-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Baby Games",
+        "gameurl": "https://www.crazygames.com/game/baby-dress-up",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Candy Hair Salon Doll",
+        "imageurl": "https://images.crazygames.com/candy-hair-salon---doll-games/20230629041011/candy-hair-salon---doll-games-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Baby Games",
+        "gameurl": "https://www.crazygames.com/game/candy-hair-salon---doll-games",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Chibi Doll Dress Up Coloring",
+        "imageurl": "https://images.crazygames.com/chibi-doll-dress-up-coloring/20221020040157/chibi-doll-dress-up-coloring-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Baby Games",
+        "gameurl": "https://www.crazygames.com/game/chibi-doll-dress-up-coloring",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Cozy Room Design",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/7840ca4c8b4bf0843ee1cecfc06696f6.png",
+        "category": "Baby Games",
+        "gameurl": "https://poki.com/en/g/cozy-room-design",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Mermaid Dress Up",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/89fbba5cc53657fbe097c640ef989086.png",
+        "category": "Baby Games",
+        "gameurl": "https://poki.com/en/g/mermaid-dress-up",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Feets  Doctor Urgent Care",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/b8fcf672c1a400378ec4fbe64446fe0c.png",
+        "category": "Baby Games",
+        "gameurl": "https://poki.com/en/g/feets-doctor-urgent-care",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Twins Adventures Attic Surprise",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/eba69c618322043ed349dbf26420a6cb.png",
+        "category": "Baby Games",
+        "gameurl": "https://poki.com/en/g/twins-adventures-attic-surprise",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Dungeons Dressups",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/0d19fb1ebee46a2b8c2987e79f10c72d.png",
+        "category": "Baby Games",
+        "gameurl": "https://poki.com/en/g/dungeons-dressups",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "2048",
+        "imageurl": "https://images.crazygames.com/games/2048/thumb-1577452120997.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/2048",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "2048-Merge",
+        "imageurl": "https://images.crazygames.com/2048merge.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/2048-merge",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Braindom-2-Who-Is-Lying",
+        "imageurl": "https://images.crazygames.com/braindom-2-who-is-lying/20230316184530/braindom-2-who-is-lying-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/braindom-2-who-is-lying",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Brain Teaser",
+        "imageurl": "https://images.crazygames.com/brain-teaser-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/brain-teaser",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Brain Trainer",
+        "imageurl": "https://images.crazygames.com/games/brain-trainer/cover-1606895043712.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/brain-trainer",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "EI Soul",
+        "imageurl": "https://images.crazygames.com/ei-soul_16x9/20231220090359/ei-soul_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/ei-soul",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Heart Box",
+        "imageurl": "https://images.crazygames.com/heart-box_16x9/20231025101832/heart-box_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/heart-box",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Hexa Blast Game",
+        "imageurl": "https://images.crazygames.com/hexa-blast-game/20230203191111/hexa-blast-game-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/hexa-blast-game",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Math Push",
+        "imageurl": "https://images.crazygames.com/math-push/20220103160234/math-push-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/math-push",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Stack It",
+        "imageurl": "https://images.crazygames.com/stack-it_16x9/20230921032106/stack-it_16x9-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/stack-it",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Sudoku Game",
+        "imageurl": "https://images.crazygames.com/sudokugame.png?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/sudoku-game",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "cz",
+        "gamename": "Word-Swipe-uwf",
+        "imageurl": "https://images.crazygames.com/word-swipe-uwf/20230503093134/word-swipe-uwf-cover?quality=100,width=200,height=200,fit=cover,f=auto",
+        "category": "Brain Games",
+        "gameurl": "https://www.crazygames.com/game/word-swipe-uwf",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Arithmetica",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/8b3408d50ffebc7659fa5307a19c6175.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/arithmetica",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Math Trivia Live",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/25fc3541f37b557d503160b88e6fa3213bf12dd3b5757b79170b238a726a7ce5.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/math-trivia-live",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Sudoku",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/fde33f9b7a0e003608c30f07e47bb4a4.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/sudoku",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Math Mahjong Relax",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/9353086c812f00fc873b6b49c4db5f3f.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/math-mahjong-relax",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Numbers",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/ddd68cd4387aad588bd48ca45c2f2290.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/numbers",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Line-Up-Dots",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/d6b8ec8c03cba851275b9c0ae823ba3c.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/line-up-dots",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Ultimate-Sudoku",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/bc07d0e7d1b5b448e0a932537b4ebf80.png",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/ultimate-sudoku",
+        
+        "orientation": false
+      },
+      {
+        "gametype": "pk",
+        "gamename": "Merge The Numbers",
+        "imageurl": "https://img.poki.com/cdn-cgi/image/quality=100,width=200,height=200,fit=cover,f=auto/e963e20cad2f5853ce98d196f6f69b71.jpg",
+        "category": "Brain Games",
+        "gameurl": "https://poki.com/en/g/merge-the-numbers",
+        
+        "orientation": false
+      }
+    ]
+  }    
